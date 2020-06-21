@@ -2,7 +2,9 @@
 /*Ini Komentar. Jika ada yang harus di tambahkan bisa kasih pesan disini juga*/
 
 /*------------------------Header------------------------*/
+header {
 
+}
 
 /*-----------------------Header------------------------*/
 
@@ -17,8 +19,8 @@
   color: blue;
 }
 .top-wrapper img {
-  width : 400px;
-  height: 400px;
+  width : 20%;
+  height: 20%;
 }
 
 /*-----------------------MainBody------------------------*/
