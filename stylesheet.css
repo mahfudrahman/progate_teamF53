@@ -12,8 +12,8 @@
   text-align: center;
 }
 .top-wrapper h1 {
-  font-size: 140px;
-  font-style:italic;
+  font-style: italic;
+  font-weight: bold;
   color: blue;
 }
 .top-wrapper img {
