@@ -1,4 +1,4 @@
-## [Cek Hasil Web : mahfudrahman.github](https://mahfudrahman.github.io/progate_teamF53/) 
+## [Cek Hasil Web : mahfudrahman.github.io](https://mahfudrahman.github.io/progate_teamF53/) 
 
 ## Team F53
   1. Lucki Bagus
