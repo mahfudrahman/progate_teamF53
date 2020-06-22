@@ -1,19 +1,36 @@
 /*Percobaan saja nanti di edit lagi*/
 /*Ini Komentar. Jika ada yang harus di tambahkan bisa kasih pesan disini juga*/
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
 /*------------------------Header------------------------*/
 header {
   height: 90px;
   width: 100%;
   background-color: rgba(51, 0, 102, 0.8);
-  position :relative;
+  position :fixed;
   top: 0;
   z-index: 10;
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 85px;
+  margin: 20px;
 }
 
 .header-left {
@@ -23,11 +40,11 @@ header {
 .header-right {
   font-family: 'Roboto', sans-serif;
   float: right;
-  margin-right: -25px;
+  margin-right: 30px;
 }
 
 .header-right a {
-  line-height: 65px;
+  line-height: 90px;
   padding: 0 25px;
   color: white;
   display: block;
@@ -64,7 +81,12 @@ header {
 
 /*------------------------Footer------------------------*/
 footer {
-/* di isi ya*/
-}
+  .footer-left {
+  
+  }
+
+  .footer-right {
+  
+  }
 
 /*------------------------Footer------------------------*/
