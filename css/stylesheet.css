@@ -18,6 +18,11 @@ li {
 a {
   text-decoration: none;
 }
+
+.fa {
+  margin-right: 5px;
+}
+
 /*------------------------Header------------------------*/
 header {
   height: 90px;
