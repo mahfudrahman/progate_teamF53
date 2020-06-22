@@ -3,9 +3,9 @@
 
 /*------------------------Header------------------------*/
 header {
-  height: 65px;
+  height: 90px;
   width: 100%;
-  background-color: rgba(153, 153, 255, 0.8);
+  background-color: rgba(51, 0, 102, 0.8);
   position :fixed;
   top: 0;
   z-index: 10;
@@ -28,7 +28,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: black;
+  color: white;
   display: block;
   float: left;
   transition: all 0.5s;
