@@ -6,7 +6,7 @@ header {
   height: 90px;
   width: 100%;
   background-color: rgba(51, 0, 102, 0.8);
-  position :fixed;
+  position :relative;
   top: 0;
   z-index: 10;
 }
@@ -44,7 +44,7 @@ header {
 /*-----------------------MainBody------------------------*/
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 180px 0px 100px 0px;
   background-image: url(https://github.com/mahfudrahman/progate_teamF53/blob/master/img/magic-keyboard.jpg?raw=true);
   background-size: cover;
   font-family: 'Roboto', sans-serif;
