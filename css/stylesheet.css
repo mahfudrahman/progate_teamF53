@@ -43,16 +43,21 @@ header {
 /*-----------------------MainBody------------------------*/
 
 .top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://github.com/mahfudrahman/progate_teamF53/blob/master/img/magic-keyboard.jpg);
+  background-size: cover;
   text-align: center;
+  color: #ecf0f1;
 }
 .top-wrapper h1 {
-  font-style: italic;
-  font-weight: bold;
-  color: blue;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 3px;
+  opacity: 0.7;
 }
-.top-wrapper img {
-  width : 20%;
-  height: 20%;
+.top-wrapper p {
+  font-size: 10px;
+  opacity: 0.7;
 }
 
 /*-----------------------MainBody------------------------*/
