@@ -34,8 +34,8 @@ header {
 }
 
 .logo {
-  width: 85px;
-  margin: 20px;
+  width: 80px;
+  margin: 5px;
 }
 
 .header-left {
@@ -66,7 +66,7 @@ header {
 /*-----------------------MainBody------------------------*/
 
 .top-wrapper {
-  padding: 180px 0px 100px 0px;
+  padding: 250px 0px 150px 0px;
   background-image: url(https://github.com/mahfudrahman/progate_teamF53/blob/master/img/magic-keyboard.jpg?raw=true);
   background-size: cover;
   font-family: 'Roboto', sans-serif;
