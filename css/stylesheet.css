@@ -45,19 +45,19 @@ header {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/mahfudrahman/progate_teamF53/blob/master/img/magic-keyboard.jpg);
+  background-image: url(https://github.com/mahfudrahman/progate_teamF53/blob/master/img/magic-keyboard.jpg?raw=true);
   background-size: cover;
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  color: #ecf0f1;
+  color: #34495e;
 }
 .top-wrapper h1 {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 3px;
 }
-.top-wrapper p {
-  font-size: 10px;
+.top-wrapper h2 {
+  font-size: 20px;
 }
 
 /*-----------------------MainBody------------------------*/
