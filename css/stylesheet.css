@@ -178,11 +178,10 @@ footer {
 
 .footer-logo {
   float: left;
-  width: 67px;
-  margin: 10px 50px;
+  width: 450px;
 }
 .footer-logo img {
-  width: 350px;
+  width: 450px;
 }
 
 .footer-list {
