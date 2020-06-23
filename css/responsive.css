@@ -23,6 +23,12 @@
     display: none;
     font-size: 25px;
   }
+  
+  /* Tambahkan CSS untuk menu-icon */
+  .menu-icon {
+    display: block;
+  }
+  
   .top-wrapper {
     text-align: left;
   }
