@@ -60,6 +60,9 @@ header {
 .header-right a {
   line-height: 90px;
   padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
   transition: all 0.5s;
 }
 
