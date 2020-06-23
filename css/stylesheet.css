@@ -169,7 +169,7 @@ footer {
 
 .footer-logo {
   float: left;
-  font-size: 32px;
+  width: 125px;
 }
 
 .footer-list {
