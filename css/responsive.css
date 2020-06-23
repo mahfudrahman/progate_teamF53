@@ -37,6 +37,11 @@
   footer {
   text-align: center;
   }
+  
+  }
+  .footer-bottom {
+  text-align: center;
+  }
 }
 
 /* For Smartphone View */
