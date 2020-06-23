@@ -128,7 +128,33 @@ hr {
   flex: auto;
   padding: 15px;
 }
+/*------------------------Footer------------------------*/
+.porto {
+      background: linear-gradient(to bottom right, #ffffff 20%, #bfbfbf 135%);
+      text-align: center;
+    }
 
+    .portofol {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .portofol1 {
+      flex: auto;
+      width: 20%;
+    }
+
+    .portofol1 img {
+      width: 70%;
+      border-radius: 7px;
+      opacity: 0.5;
+    }
+
+    .portofol1 img:hover {
+      width: 100%;
+      box-shadow: 0px 5px 15px 1px rgba(0, 0, 0, 0.5);
+      transition: 0.4s;
+    }
 
 
 
