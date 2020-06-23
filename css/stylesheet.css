@@ -14,6 +14,12 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
 li {
   list-style: none;
 }
@@ -67,7 +73,7 @@ header {
 /*-----------------------Header------------------------*/
 
 /*-----------------------MainBody------------------------*/
-
+/*-------CoverSection-----*/
 .top-wrapper {
   padding: 250px 0px 150px 0px;
   background-image: url(https://github.com/mahfudrahman/progate_teamF53/blob/master/img/magic-keyboard.jpg?raw=true);
@@ -84,6 +90,8 @@ header {
 .top-wrapper h2 {
   font-size: 20px;
 }
+/*-------CoverSection-----*/
+
 
 /*-----------------------MainBody------------------------*/
 section {
@@ -128,40 +136,41 @@ hr {
   flex: auto;
   padding: 15px;
 }
-/*------------------------Footer------------------------*/
+
 .porto {
-      background: linear-gradient(to bottom right, #ffffff 20%, #bfbfbf 135%);
-      text-align: center;
-    }
+  background: linear-gradient(to bottom right, #ffffff 20%, #bfbfbf 135%);
+  text-align: center;
+}
 
-    .portofol {
-      display: flex;
-      flex-wrap: wrap;
-    }
+.portofol {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-    .portofol1 {
-      flex: auto;
-      width: 20%;
-    }
+.portofol1 {
+  flex: auto;
+  width: 20%;
+}
 
-    .portofol1 img {
-      width: 70%;
-      border-radius: 7px;
-      opacity: 0.5;
-    }
+.portofol1 img {
+  width: 70%;
+  border-radius: 7px;
+  opacity: 0.5;
+}
+.portofol1 img:hover {
+   width: 100%;
+   box-shadow: 0px 5px 15px 1px rgba(0, 0, 0, 0.5);
+   opacity: inherit;
+   transition: 0.4s;
+}
 
-    .portofol1 img:hover {
-      width: 100%;
-      box-shadow: 0px 5px 15px 1px rgba(0, 0, 0, 0.5);
-      opacity: inherit;
-      transition: 0.4s;
-    }
 
+/*-----------------------Batas MainBody------------------------*/
 
 
 /*------------------------Footer------------------------*/
 footer {
-  background-color: #f1c40f;
+  background-color: #9b59b6;
   color: #fff;
   height: 120px;
   padding: 40px;
@@ -170,6 +179,10 @@ footer {
 .footer-logo {
   float: left;
   width: 67px;
+  margin: 10px 50px;
+}
+.footer-logo img{
+  
 }
 
 .footer-list {
@@ -185,12 +198,11 @@ footer {
   height: 50px;
   width: 100%;
   padding: 15px 5px;
-  
 }
 
 .footer-info {
-  float: center;
-  color: white;
-  font-size: 13px
+  color: #ecf0f1;
+  font-size: 13px;
+  text-align:center;
 }
 /*------------------------Footer------------------------*/
