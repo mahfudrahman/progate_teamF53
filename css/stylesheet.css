@@ -161,12 +161,31 @@ hr {
 
 /*------------------------Footer------------------------*/
 footer {
-  .footer-left {
-  
-  }
+  background-color: #26d0c9;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
 
-  .footer-right {
-  
-  }
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
 
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
+
+.footer-bottom {
+  background-color: #f1c40f;
+  color:#000000;
+  height: 61px;
+  padding: 15px 5px;
+  font-size: 13px
+  text-align:center;
+}
 /*------------------------Footer------------------------*/
