@@ -181,7 +181,7 @@ footer {
 }
 
 .footer-bottom {
-  background-color: #f1c40f;
+  background-color: rgba(51, 0, 102, 0.8);
   color:#000000;
   height: 61px;
   padding: 15px 5px;
