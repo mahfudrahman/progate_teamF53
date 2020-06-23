@@ -12,34 +12,51 @@
 }
 
 
-/* For Tablet View */
+/* End For Tablet View */
 
 /*---------------------------------------*/
 
 /* For Smartphone View */
 
 @media all and (max-width: 670px ) {
+  /*---------------Header----------------------*/
   .header-right {
     display: none;
     font-size: 25px;
   }
+  /*-------------End Header----------------------*/
   
-  /* Tambahkan CSS untuk menu-icon */
-  .menu-icon {
-    display: block;
-  }
-  
+  /*--------------Cover Team Section---------------*/
   .top-wrapper {
     text-align: left;
   }
   .top-wrapper h1 {
-    font-size: 24px;
-    line-height: 36px;
-  }
+    font-size: 85px;
+    margin: 0 45px 0 45px;
+    text-align: left;
+    line-height: 100px;
+    
   .top-wrapper h2 {
     font-size: 14px;
     line-height: 20px;
   }
+  /*------------End Cover Team Section-----------*/
+  
+  /*--------------------About------------*/
+  .poto {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    }
+  /*-------------------End About----------------------*/
+  /*-----------Portfolio Galery------------------*/
+  
+  
+  
+  /*-------End Portfolio Galery------------------*/
+  
+  /*-------------------footer---------------------*/
   footer {
   text-align: center;
   }
