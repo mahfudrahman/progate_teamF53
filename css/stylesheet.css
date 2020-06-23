@@ -189,8 +189,8 @@ footer {
 }
 
 .footer-info {
+  float: center;
   color: white;
   font-size: 13px
-  text-align:center;
 }
 /*------------------------Footer------------------------*/
