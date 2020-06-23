@@ -182,9 +182,13 @@ footer {
 
 .footer-bottom {
   background-color: rgba(51, 0, 102, 0.8);
-  color: white;
   height: 61px;
   padding: 15px 5px;
+  
+}
+
+.footer-info {
+  color: white;
   font-size: 13px
   text-align:center;
 }
