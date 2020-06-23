@@ -126,11 +126,10 @@ hr {
 .poto1 {
   flex: auto;
   padding-left: 15px;
+  margin-bottom: 25px;
 }
 
-.poto1 h4 {
-  margin-top:25px;
-}
+
 
 
 /*------------------------Footer------------------------*/
